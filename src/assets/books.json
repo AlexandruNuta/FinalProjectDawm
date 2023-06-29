@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "titlu": "Cartea 1",
+    "autor": "Autorul 1",
+    "nrPagini": "200",
+    "rating": "4.5"
+  },
+  {
+    "id": "2",
+    "titlu": "Cartea 2",
+    "autor": "Autorul 2",
+    "nrPagini": "300",
+    "rating": "3.8"
+  },
+  {
+    "id": "3",
+    "titlu": "Cartea 3",
+    "autor": "Autorul 3",
+    "nrPagini": "250",
+    "rating": "4.2"
+  }
+]

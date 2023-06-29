@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nume": "Oras1",
+    "populatie": 100000,
+    "suprafata": 50,
+    "nrTuristi": 5000
+  },
+  {
+    "id": 2,
+    "nume": "Oras2",
+    "populatie": 150000,
+    "suprafata": 70,
+    "nrTuristi": 8000
+  },
+  {
+    "id": 3,
+    "nume": "Oras3",
+    "populatie": 200000,
+    "suprafata": 90,
+    "nrTuristi": 10000
+  }
+]
